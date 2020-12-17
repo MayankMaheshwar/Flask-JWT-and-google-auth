@@ -1,0 +1,4 @@
+requests==2.21.0
+pyOpenSSL==19.0.0
+Flask-Login==0.4.1
+authlib
